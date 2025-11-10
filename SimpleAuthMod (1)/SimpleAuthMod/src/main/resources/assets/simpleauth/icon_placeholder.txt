@@ -1,2 +1,0 @@
-This is a placeholder for the mod icon (icon.png).
-You can replace this with a 128x128 PNG image if desired.
